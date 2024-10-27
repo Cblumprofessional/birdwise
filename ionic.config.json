@@ -1,0 +1,8 @@
+{
+  "name": "Birdwise",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "1998dee1"
+}
